@@ -1,0 +1,119 @@
+body {
+  background-color:#abf0e9;
+  margin:0px;
+  text-align:center;
+}
+.first
+{
+  text-align: center;
+  position:relative;
+  top:150px;
+}
+.railway{
+  width:100%;
+  height:1000px;
+}
+.cloud-1 {
+  width:270px;
+  height:270px;
+  position: absolute;
+  left:950px;
+  top:70px;
+}
+.cloud-2 {
+  width:270px;
+  height:270px;
+  position: absolute;
+  top:120px;
+  left:50px;
+}
+.circular {
+  border-radius: 100%;
+}
+.fourth {
+  text-align:center;
+}
+.mypic {
+  width:16%;
+}
+h1 {
+  font-size:3em;
+  color:#162447;
+}
+h2 {
+  text-align:center;
+  font-size:2em;
+}
+p {
+  font-size:1em;
+}
+h4 {
+  color:#1b6ca8;
+}
+hr {
+  border-style: dotted none none none;
+  border-width: 7px;
+  color:grey;
+  width:5%;
+}
+.Skills {
+  width:50%;
+  margin:auto;
+  text-align:center;
+}
+.skill1 {
+  text-align:left;
+}
+.skill2 {
+  text-align:left;
+  margin-top: 100px;
+}
+.skill_img1 {
+width:25%;
+float:left;
+margin-right: 100px;
+margin-top:-20px;
+}
+.skill_img2 {
+  width:24%;
+  float:right;
+  margin-top:-10px;
+}
+.contactme {
+  padding:50px 0 20px;
+  background-color:#58b4ae;
+  width:100%;
+margin:auto;
+}.myButton {
+	box-shadow: 0px 0px 1px 0px #276873;
+	background:linear-gradient(to bottom, #658b99 5%, #0ccdeb 100%);
+	background-color:#658b99;
+	border-radius:20px;
+	border:4px solid #1291e6;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:25px;
+	font-weight:bold;
+	padding:13px 7px;
+	text-decoration:none;
+	text-shadow:0px 1px 50px #477d8f;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #0ccdeb 5%, #658b99 100%);
+	background-color:#0ccdeb;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+a {
+  color:#235952;
+  text-decoration:none;
+  font-family:"Montserrat",sans-serif;
+  margin:20px;
+}
+a:hover{
+  color:#ecfbfc;
+}
